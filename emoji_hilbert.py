@@ -219,7 +219,7 @@ def beautify_pattern(pattern):
 
 def fractal_generator(iterations, initial_pattern):
     fractal_pattern = initial_pattern
-    for _ in range(iterations):
+    for _ in range(iterations - 1):
         fractal_pattern = rotations_board(fractal_pattern, initial_pattern)
     return fractal_pattern
 
