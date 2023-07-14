@@ -1,7 +1,7 @@
 # emoji_hilbert
 Makes an emoji version of Hilbert’s curve and prints it to the console.
 
-Today, I invented this emoji version of Hilbert’s curve and [posted it to Twitter](https://twitter.com/thiagovscoelho/status/1679609786105561088). Then, I spent a while asking ChatGPT to make this code, which it did not do on the first try, but did do eventually after asking for it step-by-step. Here are the results:
+Today, I invented this emoji version of Hilbert’s curve and [posted it to Twitter](https://twitter.com/thiagovscoelho/status/1679609786105561088). Then, I spent a while [asking ChatGPT to make this code](https://thiago-gpt.blogspot.com/2023/07/the-making-of-emojihilbert.html), which it did not do on the first try, but did do eventually, after asking for it very slowly and step-by-step. Here are the results:
 
 First iteration:
 ```
